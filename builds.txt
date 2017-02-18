@@ -1,0 +1,7 @@
+name=" TITLE HERE "
+url=" LINK TO THE BUILD ZIP HERE"
+img=" LINK TO AN ICON HERE"
+fanart=" PUT A DUMMY LINK HERE "
+description=" INFO LINE 1"
+size=" ZIP SIZE HERE "
+bio=" INFO LINE 2"
