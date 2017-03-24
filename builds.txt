@@ -7,7 +7,7 @@ size="185 MB"
 bio="Darkzide_inc"
 
 name="Darkzide IPTV Addon v.1.06"
-url="https://www.dropbox.com/s/xlqxhycqbpeqtyi/plugin.video.%20darkzide_iptv-1.0.6.zip?dl=1"
+url="http://tiny.cc/Darkzide"
 img="http://i.imgur.com/XwjV8U5.png"
 fanart="http.yourmomma.com"
 description="Darkzide IPTV Addon"
