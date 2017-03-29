@@ -1,8 +1,8 @@
-name="Darkzide Danish TV Build v.3.0"
-url="https://www.dropbox.com/s/r688yppnc7wgf6p/Darkzide.zip?dl=1"
-img="http://i.imgur.com/eP6OnAi.png"
-fanart="http.yourmomma.com"
+name="Darkzide Danish TV Build v.4.4.4"
+url="https://www.dropbox.com/s/c66tnd6ea9d15li/DarkzideBuildv444.zip?dl=1"
+img="http://i.imgur.com/nk1PWwh.png"
+fanart=""
 description="Fast Danish IPTV Build [Darkzide inc]"
-size="185 MB"
+size="195 MB"
 bio="KODI 16 JARVIS ONLY"
 
