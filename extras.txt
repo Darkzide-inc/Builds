@@ -1,0 +1,9 @@
+#######################################################################################################################################
+<poster>Darkzide Extras</poster> 
+#######################################################################################################################################
+<item>
+<title>[COLOR red]-------- [/COLOR][COLOR ghostwhite]Darkzide APK Games[/COLOR][COLOR red] --------[/COLOR]</title>
+<link>http://rtmp.one.by:1300/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
