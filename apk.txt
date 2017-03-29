@@ -7,40 +7,40 @@ size="5.6 MB"
 bio="Enjoy Pro Version For Free"
 
 
-name="  X-plore File Manager v3.92.11 Final [Patched]"
+name="  X-plore File Manager v3.92.11 Final[Patched]"
 url="https://www.dropbox.com/s/t5kq1hjpsobq9eb/APP%20-%20X-plore%20File%20Manager%20v3.92.11%20Final%20%5BPatched%5D.apk?dl=1"
 img="http://www.apps2apk.com/wp-content/uploads/2015/05/XPlore-File-Manager-Donate-v3.71.02-Apk.jpg"
 fanart="http://www.apps2apk.com/wp-content/uploads/2015/05/XPlore-File-Manager-Donate-v3.71.02-Apk.jpg"
-description="X-plore File Manager"
-size="5.6 MB"
+description=" X-plore File Manager v3.92.11 Final[Patched]"
+size="5.2 MB"
 bio="X-plore File Manager"
 
 
-name="  Terrarium TV v1.4.12 [Premium]"
-url="https://www.dropbox.com/s/mvix08fjnhhyhue/APP%20-%20Terrarium%20TV%20v1.4.12%20%5BPremium%5D.apk?dl=1"
+name="  Solid Steamz 1.0[Unlocked]"
+url="https://www.dropbox.com/s/v4ssf678lqx3nip/Solid%20Streamz_1.0.apk?dl=1"
 img="http://data.apksum.com/e5/com.solid.streamz/1.0/icon.png"
 fanart="http://data.apksum.com/e5/com.solid.streamz/1.0/icon.png"
-description="Terrarium TV v1.4.12 [Premium]"
+description="Solid Steamz 1.0[Unlocked]"
 size="8 MB"
-bio="Terrarium TV v1.4.12 [Premium]"
+bio="Alot of TV Channels"
 
 
-name="  Solid Steamz 1.0"
-url="https://www.dropbox.com/s/v4ssf678lqx3nip/Solid%20Streamz_1.0.apk?dl=1"
+name="  Terrarium TV v1.4.12[Premium]"
+url="https://www.dropbox.com/s/mvix08fjnhhyhue/APP%20-%20Terrarium%20TV%20v1.4.12%20%5BPremium%5D.apk?dl=1"
 img="http://terrariumtvdownloadapp.com/wp-content/uploads/2016/11/Terrarium-TV-APK-for-Android.jpg"
 fanart="http://terrariumtvdownloadapp.com/wp-content/uploads/2016/11/Terrarium-TV-APK-for-Android.jpg"
-description="Online Tv Steams App For Android"
-size="15 MB"
+description="Terrarium TV v1.4.12[Premium]"
+size="8 MB"
 bio="Big Mix Of TV Shows and Movies"
 
 
-name="  365 Scores Sports Scores Live v4.6.0 [Subscribed]"
+name="  365 Sports Scores Live[Subscribed]"
 url="https://www.dropbox.com/s/popmivydl0hq3ir/APP%20-%20365Scores%20Sports%20Scores%20Live%20v4.6.0%20%5BSubscribed%5D.apk?dl=1"
 img="https://oddslifenetstorage.blob.core.windows.net/sbcnews/2015/08/365scores1.png"
 fanart="https://oddslifenetstorage.blob.core.windows.net/sbcnews/2015/08/365scores1.png"
 description="365 Scores Sports Scores Live"
-size="15 MB"
-bio="365 Scores Sports Scores Live"
+size="20 MB"
+bio="[Subscribed]"
 
 
 
