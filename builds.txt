@@ -6,12 +6,12 @@ description="Darkzide Danish TV Build v.4.4.4"
 size="196 MB"
 bio="KODI 16 JARVIS ONLY"
 
-*****************************************************************************
+name="*****************************************************************************"
 
 name="Darkzide Evil TV Build v.5.5.5"
-url="https://www.dropbox.com/s/aas1d6ha8adu16x/DarkzideBuild.v5.5.5.zip?dl=1"
+url="https://www.dropbox.com/s/xsn0ghgc7xqjpum/DarkzideBuild555.zip?dl=1"
 img="http://i.imgur.com/nRc4k1n.png"
 fanart=""
 description="Darkzide Evil TV Build v.5.5.5"
-size="236 MB"
+size="250 MB"
 bio="DANSK BUILD - KODI 16 JARVIS ONLY"
