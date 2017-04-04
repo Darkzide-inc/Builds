@@ -34,13 +34,14 @@ size="8 MB"
 bio="Big Mix Of TV Shows and Movies"
 
 
-name="  365 Sports Scores Live[Subscribed]"
-url="https://www.dropbox.com/s/popmivydl0hq3ir/APP%20-%20365Scores%20Sports%20Scores%20Live%20v4.6.0%20%5BSubscribed%5D.apk?dl=1"
-img="https://oddslifenetstorage.blob.core.windows.net/sbcnews/2015/08/365scores1.png"
-fanart="https://oddslifenetstorage.blob.core.windows.net/sbcnews/2015/08/365scores1.png"
-description="365 Scores Sports Scores Live"
-size="20 MB"
-bio="[Subscribed]"
+name="  Kohi Movies"
+url="https://www.dropbox.com/s/f41fw37w95mjpam/Kohi%20Movies.apk?dl=1"
+img="https://kodiapps.com/charts/kohi.png"
+fanart=""
+description="Stream Movies and TV Shows"
+size="-1 MB"
+bio="Kohi Movies"
+
 
 
 
