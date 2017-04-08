@@ -1,3 +1,12 @@
+name="******KODI 16 Builds******"
+url="https://www.dropbox.com/s/hb"
+img="http://ubuntuhandbook.org/wp-content/uploads/2015/08/kodi-icon.jpg"
+fanart=""
+description="Darkzide_inc"
+size="Mega"
+bio="KODI 16 Builds"
+
+
 name="Darkzide Evil TV Build v.6.6.6"
 url="https://www.dropbox.com/s/9mmbuwfu0c3itmo/DarkzideBuildv6.6.6.zip?dl=1"
 img="http://i.imgur.com/nRc4k1n.png"
@@ -28,8 +37,8 @@ name="******KODI 17 Builds******"
 url="https://www.dropbox.com/s/hb"
 img="https://i.ytimg.com/vi/LrSAGcCtgyE/hqdefault.jpg"
 fanart=""
-description="Darkzide"
-size=""
+description="Darkzide_inc"
+size="Mega"
 bio="KODI 17 Builds"
 
 
