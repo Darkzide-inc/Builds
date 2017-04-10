@@ -1,4 +1,4 @@
-name="[COLOR darkgrey][B]******KODI 17 Builds******[/B][/COLOR]"
+name="[COLOR gold][B]********KODI 17 BUILDS********[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="https://i.ytimg.com/vi/LrSAGcCtgyE/hqdefault.jpg"
 fanart=""
@@ -24,7 +24,7 @@ size="196 MB"
 bio="KODI 17 BUILD"
 
 
-name="******KODI 16 Builds******"
+name="[COLOR cornflowerblue][B]********KODI 16 BUILDS********[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="http://ubuntuhandbook.org/wp-content/uploads/2015/08/kodi-icon.jpg"
 fanart=""
