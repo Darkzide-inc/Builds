@@ -7,12 +7,12 @@ size="Mega"
 bio="KODI 17 Builds"
 
 name="DarKrypto Build v.1.1.1"
-url="https://www.dropbox.com/s/hbq8aujmfidwkie/DarkzideKryptoBuild.v.1.1.1.zip?dl=1"
+url="https://www.dropbox.com/s/w6kr9z7uodc852s/darkrypto.v3dk.zip?dl=1"
 img="https://www.dropbox.com/s/x12uh5mqus4kir4/screenshot002.png?dl=1"
 fanart=""
-description="DarKrypto Build v.1.1.1 [DK Version]"
-size="196 MB"
-bio="KODI 17 Kryptonite"
+description="DarKrypto Build v.1.1.1 [Danish Version]"
+size="140 MB"
+bio="KODI 17 BUILD"
 
 
 name="Darkzide Krypto TV Build v.1.1.1"
@@ -21,7 +21,7 @@ img="https://www.dropbox.com/s/x12uh5mqus4kir4/screenshot002.png?dl=1"
 fanart=""
 description="Darkzide Krypto TV Build v.1.1.1 [English Version]"
 size="196 MB"
-bio="KODI 17 Kryptonite"
+bio="KODI 17 BUILD"
 
 
 name="******KODI 16 Builds******"
