@@ -1,10 +1,10 @@
-name="[COLOR ghostwhite][B]********[/B][/COLOR][COLOR red][B]KODI 17 BUILDS[/B][/COLOR][COLOR ghostwhite][B]********[/B][/COLOR]"
+name="[COLOR ghostwhite][B]*********[/B][/COLOR][COLOR darkred][B]KODI 17 BUILDS[/B][/COLOR][COLOR ghostwhite][B]*********[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
 fanart=""
-description="All Kodi 17 builds will be added under here"
+description="All Kodi 17 builds"
 size="Darkzide_inc"
-bio="KODI 17 Builds"
+bio="will be added under here"
 
 
 name="[COLOR ghostwhite][B]Darkzide [/B][/COLOR][COLOR green][B]Krypto[/B][/COLOR][COLOR ghostwhite][B] Buildv.1.1.1[/B][/COLOR]"
@@ -12,35 +12,26 @@ url="https://www.dropbox.com/s/yg5mi8kaa3dzip9/KryptoBuildv111.zip?dl=1"
 img="https://www.dropbox.com/s/hwyory3ylkebumt/screenshot010.png?dl=1"
 fanart=""
 description="Darkzide Krypto Buildv.1.1.1"
-size="170 MB [Dk Version]"
-bio="KODI 17 BUILD"
+size="11-04-2017 Release Date"
+bio="170 MB DK Version"
 
 
-name="[COLOR ghostwhite][B]********[/B][/COLOR][COLOR red][B]KODI 16 BUILDS[/B][/COLOR][COLOR ghostwhite][B]********[/B][/COLOR]"
+name="[COLOR ghostwhite][B]********[/B][/COLOR][COLOR darkred][B]KODI 16 BUILDS[/B][/COLOR][COLOR ghostwhite][B]********[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
 fanart=""
-description="All Kodi 16 builds will be added under here"
+description="Kodi 16 builds "
 size="Darkzide_inc"
-bio="KODI 16 Builds"
+bio="will be added under here"
 
 
 name="Darkzide Evil TV Build v.6.6.6"
 url="https://www.dropbox.com/s/9mmbuwfu0c3itmo/DarkzideBuildv6.6.6.zip?dl=1"
 img="http://i.imgur.com/nRc4k1n.png"
 fanart=""
-description="Darkzide Evil TV Build v.6.6.6"
-size="280 MB"
-bio="DANSK BUILD - KODI 16 JARVIS ONLY"
-
-
-name="Darkzide Evil TV Build v.5.5.5"
-url="https://www.dropbox.com/s/xsn0ghgc7xqjpum/DarkzideBuild555.zip?dl=1"
-img="http://i.imgur.com/nRc4k1n.png"
-fanart=""
-description="Darkzide Evil TV Build v.5.5.5"
-size="250 MB"
-bio="DANSK BUILD - KODI 16 JARVIS ONLY"
+description="Darkzide Evil TV Buildv.6.6.6"
+size="KODI 16 JARVIS"
+bio="280 MB DK Build"
 
 
 name="Darkzide Danish TV Build v.4.4.4"
