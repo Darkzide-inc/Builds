@@ -1,3 +1,11 @@
+name="   [COLOR lightblue][B]MediSafe Meds & Pill Reminder[/B][/COLOR] v7.23.03591"
+url="https://www.dropbox.com/s/sfu26a7fsebgc8o/APP%20-%20MediSafe%20Meds%20%26%20Pill%20Reminder%20v7.23.03591%20%5BPremium%5D.apk?dl=1"
+img="http://www.aftermd.com/images/useful-apps/medisafe.png"
+fanart="https://i.ytimg.com/vi/MP9-nqGjNSE/hqdefault.jpg"
+description="MediSafe Meds & Pill Reminder v7.23.03591"
+size="23 MB - [Premium]"
+bio="MediSafe Meds & Pill Reminder"
+
 name="  [COLOR darkblue][B]Yatse, the Kodi Remote v7.3.0[/B][/COLOR] [Patch] ARM LP and Root"
 url="https://www.dropbox.com/s/1fttmt3336i1b27/APP%20-%20Yatse%2C%20the%20Kodi%20Remote%20v7.3.0%20%5BPatch%5D%20ARM%20LP%20and%20Root.apk?dl=1"
 img="http://yatse.tv/Images/Yatse/Header_640.jpg"
