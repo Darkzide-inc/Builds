@@ -1,4 +1,4 @@
-name="[COLOR gold][B]********KODI 17 BUILDS********[/B][/COLOR]"
+name="[COLOR gold][B]********[/B][/COLOR][COLOR black][B]KODI 17 BUILDS[/B][/COLOR][COLOR gold][B]********[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="https://i.ytimg.com/vi/LrSAGcCtgyE/hqdefault.jpg"
 fanart=""
@@ -6,25 +6,17 @@ description="Darkzide_inc"
 size="Mega"
 bio="KODI 17 Builds"
 
-name="DarKrypto Build v.1.1.1"
-url="https://www.dropbox.com/s/w6kr9z7uodc852s/darkrypto.v3dk.zip?dl=1"
-img="https://www.dropbox.com/s/x12uh5mqus4kir4/screenshot002.png?dl=1"
+
+name="Darkzide [COLOR green]Krypto[/B][/COLOR] Buildv.1.1.1"
+url="https://www.dropbox.com/s/yg5mi8kaa3dzip9/KryptoBuildv111.zip?dl=1"
+img="https://www.dropbox.com/s/hwyory3ylkebumt/screenshot010.png?dl=1"
 fanart=""
-description="DarKrypto Build v.1.1.1 [Danish Version]"
-size="140 MB"
+description="Darkzide Krypto Buildv.1.1.1"
+size="170 MB [Dk Version]"
 bio="KODI 17 BUILD"
 
 
-name="Darkzide Krypto TV Build v.1.1.1"
-url="https://www.dropbox.com/s/hbq8aujmfidwkie/DarkzideKryptoBuild.v.1.1.1.zip?dl=1"
-img="https://www.dropbox.com/s/x12uh5mqus4kir4/screenshot002.png?dl=1"
-fanart=""
-description="Darkzide Krypto TV Build v.1.1.1 [English Version]"
-size="196 MB"
-bio="KODI 17 BUILD"
-
-
-name="[COLOR cornflowerblue][B]********KODI 16 BUILDS********[/B][/COLOR]"
+name="[COLOR gold][B]********[/B][/COLOR][COLOR black][B]KODI 16 BUILDS[/B][/COLOR][COLOR gold][B]********[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="http://ubuntuhandbook.org/wp-content/uploads/2015/08/kodi-icon.jpg"
 fanart=""
