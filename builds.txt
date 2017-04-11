@@ -1,13 +1,13 @@
-name="[COLOR gold][B]********[/B][/COLOR][COLOR black][B]KODI 17 BUILDS[/B][/COLOR][COLOR gold][B]********[/B][/COLOR]"
+name="[COLOR ghostwhite][B]********[/B][/COLOR][COLOR red][B]KODI 17 BUILDS[/B][/COLOR][COLOR ghostwhite][B]********[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="https://i.ytimg.com/vi/LrSAGcCtgyE/hqdefault.jpg"
 fanart=""
-description="Darkzide_inc"
-size="Mega"
+description="All Kodi 17 builds will be added under here"
+size="Darkzide_inc"
 bio="KODI 17 Builds"
 
 
-name="Darkzide [COLOR green]Krypto[/B][/COLOR] Buildv.1.1.1"
+name="[COLOR ghostwhite][B]Darkzide [/B][/COLOR][COLOR green][B]Krypto[/B][/COLOR][COLOR ghostwhite][B] Buildv.1.1.1[/B][/COLOR]"
 url="https://www.dropbox.com/s/yg5mi8kaa3dzip9/KryptoBuildv111.zip?dl=1"
 img="https://www.dropbox.com/s/hwyory3ylkebumt/screenshot010.png?dl=1"
 fanart=""
@@ -16,12 +16,12 @@ size="170 MB [Dk Version]"
 bio="KODI 17 BUILD"
 
 
-name="[COLOR gold][B]********[/B][/COLOR][COLOR black][B]KODI 16 BUILDS[/B][/COLOR][COLOR gold][B]********[/B][/COLOR]"
+name="[COLOR ghostwhite][B]********[/B][/COLOR][COLOR red][B]KODI 16 BUILDS[/B][/COLOR][COLOR ghostwhite][B]********[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="http://ubuntuhandbook.org/wp-content/uploads/2015/08/kodi-icon.jpg"
 fanart=""
-description="Darkzide_inc"
-size="Mega"
+description="All Kodi 16 builds will be added under here"
+size="Darkzide_inc"
 bio="KODI 16 Builds"
 
 
