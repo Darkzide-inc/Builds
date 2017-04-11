@@ -2,8 +2,8 @@ name="[COLOR ghostwhite][B]*********[/B][/COLOR][COLOR darkred][B]KODI 17 BUILDS
 url="https://www.dropbox.com/s/hb"
 img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
 fanart=""
-description="All Kodi 17 builds"
-size="Darkzide_inc"
+description="Kodi 17 builds"
+size="Kodi Kryptonite"
 bio="will be added under here"
 
 
@@ -21,7 +21,7 @@ url="https://www.dropbox.com/s/hb"
 img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
 fanart=""
 description="Kodi 16 builds "
-size="Darkzide_inc"
+size="Kodi Jarvis"
 bio="will be added under here"
 
 
