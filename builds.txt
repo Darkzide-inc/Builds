@@ -1,4 +1,4 @@
-name="[COLOR ghostwhite][B]*******[/B][/COLOR][COLOR yellow][B]KODI 17 BUILDS[/B][/COLOR][COLOR ghostwhite][B]*******[/B][/COLOR]"
+name="[COLOR ghostwhite][B]******[/B][/COLOR][COLOR yellow][B]KODI 17 BUILDS[/B][/COLOR][COLOR ghostwhite][B]*******[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
 fanart=""
@@ -16,7 +16,7 @@ size="20-04-2017 Release Date"
 bio="174 MB DK Version"
 
 
-name="[COLOR ghostwhite][B]*******[/COLOR][COLOR yellow]KODI 16 BUILDS[/COLOR][COLOR ghostwhite]*******[/B][/COLOR]"
+name="[COLOR ghostwhite][B]******[/COLOR][COLOR yellow]KODI 16 BUILDS[/COLOR][COLOR ghostwhite]*******[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
 fanart=""
