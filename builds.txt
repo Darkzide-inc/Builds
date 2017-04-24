@@ -15,6 +15,13 @@ description="Darkzide Krypto Buildv.7.7.7"
 size="20-04-2017 Release Date"
 bio="174 MB DK Version"
 
+name="[COLOR ghostwhite][B]Darkzide [/COLOR][COLOR green]Mobil-TV[/COLOR][COLOR ghostwhite] Buildv.1.1.1[/B][/COLOR]"
+url="https://www.dropbox.com/s/76hhd2xa443f0jk/DarkTV-Build.zip?dl=1"
+img="https://www.dropbox.com/s/ztt08z6uzku72qk/screenshot001.png?dl=1"
+fanart=""
+description="Darkzide Mobil-TV Buildv.1.1.1"
+size="25-04-2017 Release Date"
+bio="133 MB DK Version"
 
 name="[COLOR ghostwhite][B]******[/COLOR][COLOR yellow]KODI 16 BUILDS[/COLOR][COLOR ghostwhite]*******[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
