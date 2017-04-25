@@ -7,7 +7,7 @@ size="Darkzide"
 bio="Games"
 
 
-name="[B]--- [COLOR green]Golf Clash[/COLOR] ---[/B]"
+name="[B]**** [COLOR green]Golf Clash[/COLOR] --- 88 MB ****[/B]"
 url="https://www.dropbox.com/s/igzpv3xudaau53z/Golf%20Clash_81.0.5.202.0.apk?dl=1"
 img="http://cdn-www.bluestacks.com/bs-images/Golf-Clash-298x184.jpg"
 fanart=""
