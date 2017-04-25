@@ -1,9 +1,9 @@
-#######################################################################################################################################
-<poster>Darkzide Extras</poster> 
-#######################################################################################################################################
-<item>
-<title>[COLOR red]-------- [/COLOR][COLOR ghostwhite]Darkzide APK Games[/COLOR][COLOR red] --------[/COLOR]</title>
-<link>http://rtmp.one.by:1300/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+name="[COLOR ghostwhite][B]******[/B][/COLOR][COLOR yellow][B]Darkzide Games[/B][/COLOR][COLOR ghostwhite][B]*******[/B][/COLOR]"
+url="https://www.dropbox.com/s/hb"
+img="http://i.imgur.com/RiW8oS1.jpg"
+fanart=""
+description="Android"
+size="Darkzide"
+bio="Games"
+
+
