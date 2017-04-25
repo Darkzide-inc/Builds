@@ -1,6 +1,6 @@
 name="[COLOR ghostwhite][B]*****[/B][/COLOR][COLOR yellow][B]Darkzide Games[/B][/COLOR][COLOR ghostwhite][B]*****[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
-img="http://i.imgur.com/b7pjpHv.jpg"
+img="http://i.imgur.com/azAGt2m.png"
 fanart=""
 description="Android"
 size="Darkzide"
