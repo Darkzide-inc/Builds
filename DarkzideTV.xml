@@ -18,14 +18,14 @@
 
 <item>
 <title>DR 2 [COLOR red]HD[/COLOR]</title>
-<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8</link>
+<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8</link>
 <thumbnail>http://i.imgur.com/8h8qhl4.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
 
 <item>
 <title>DR 3 [COLOR red]HD[/COLOR]</title>
-<link>http://dr03-lh.akamaihd.net/i/dr03_0@147056/index_3_av-p.m3u8</link>
+<link>http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8</link>
 <thumbnail>http://i.imgur.com/GCWX5yx.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
@@ -39,14 +39,14 @@
   
 <item>
 <title>DR ULTRA [COLOR red]HD[/COLOR]</title>
-<link>http://dr06-lh.akamaihd.net/i/dr06_0@147059/index_3_av-p.m3u8</link>
+<link>http://dr06-lh.akamaihd.net/i/dr06_0@147059/master.m3u8</link>
 <thumbnail>http://i.imgur.com/XReENcS.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item> 
   
 <item>
 <title>DR RAMASJANG [COLOR red]HD[/COLOR]</title>
-<link>http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8</link>
+<link>http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8</link>
 <thumbnail>http://i.imgur.com/wmG5oro.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
@@ -58,7 +58,7 @@
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
   
-<item>
+item>
 <title>TV2 NEWS [COLOR red]HD[/COLOR]</title>
 <link>http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8</link>
 <thumbnail>http://i.imgur.com/VE3ySgQ.png</thumbnail>
@@ -114,7 +114,7 @@ item>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
   
-<item>
+item>
 <title>Eurosport 2 [COLOR red]HD[/COLOR]</title>
 <link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/DJJiC8E.png</thumbnail>
@@ -135,14 +135,14 @@ item>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>  
 
-<item>
+item>
 <title>[COLOR gold]Kanal 5[/COLOR] [COLOR blue]HD[/COLOR]</title>
 <link>http://dnordichlslive10-i.akamaihd.net/hls/live/223867/K5SWHD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/7gL29WK.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR gold]Kanal 9[/COLOR] [COLOR blue]HD[/COLOR]</title>
 <link>http://dnordichlslive07-i.akamaihd.net/hls/live/223857/K9SWHD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/qn15C4k.png</thumbnail>
@@ -156,7 +156,7 @@ item>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>  
   
-<item>
+item>
 <title>[COLOR gold]Kanal 11[/COLOR] [COLOR blue]HD[/COLOR]</title>
 <link>http://dnordichlslive05-i.akamaihd.net/hls/live/223851/K11SWHD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/8NUMTXs.png</thumbnail>
@@ -172,14 +172,14 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR gold]TLC Swe[/COLOR] [COLOR blue]HD[/COLOR]</title>
 <link>http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/vA8aJar.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR gold]Discovery[/COLOR] [COLOR blue]HD[/COLOR]</title>
 <link>http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/mKopldE.png</thumbnail>
@@ -193,7 +193,7 @@ item>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR teal]Eurosport N[/COLOR] [COLOR red]HD[/COLOR]</title>
 <link>http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/pUuUyxa.png</thumbnail>
@@ -207,7 +207,7 @@ item>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
   
-<item>
+item>
 <title>[COLOR teal]N Norge[/COLOR] [COLOR red]HD[/COLOR]</title>
 <link>http://dnordichlslive08-i.akamaihd.net/hls/live/223860/TVNOHD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/v2wCXkk.png</thumbnail>
