@@ -124,16 +124,44 @@
 
 
 <item>
-<title>[COLOR red]-------- [/COLOR][COLOR teal]Norwegian TV Channels[/COLOR][COLOR red] --------[/COLOR]</title>
+<title>[COLOR red]-------- [/COLOR][COLOR yellow]Sport TV Channels[/COLOR][COLOR red] --------[/COLOR]</title>
 <link>http://rtmp.one.by:1499/</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR teal]TV Visjon[/COLOR] [COLOR red]HD[/COLOR]</title>
-<link>http://80.252.162.14/edge/_a5xbjod7_/a5xbjod7/master.m3u8</link>
-<thumbnail>http://i.imgur.com/bkMQkWT.png</thumbnail>
+<title>[COLOR red]SuperSport[/COLOR][COLOR dark blue] 1[/COLOR]</title>
+<link>http://81.7.13.162/hls/ss1/index.m3u8</link>
+<thumbnail>http://i.imgur.com/KX8r75B.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
+  
+<item>
+<title>[COLOR red]SuperSport[/COLOR][COLOR dark blue] 2[/COLOR]</title>
+<link>http://81.7.13.162/hls/ss2/index.m3u8</link>
+<thumbnail>http://i.imgur.com/KX8r75B.png</thumbnail>
+<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
+</item>
+  
+<item>
+<title>[COLOR red]SuperSport[/COLOR][COLOR dark blue] 3[/COLOR]</title>
+<link>http://81.7.13.162/hls/ss3/index.m3u8</link>
+<thumbnail>http://i.imgur.com/KX8r75B.png</thumbnail>
+<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
+</item>
+  
+<item>
+<title>[COLOR red]SuperSport[/COLOR][COLOR dark blue] 4[/COLOR]</title>
+<link>http://81.7.13.162/hls/ss4/index.m3u8</link>
+<thumbnail>http://i.imgur.com/KX8r75B.png</thumbnail>
+<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]TileSport[/COLOR]</title>
+<link>http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
+</item>  
   
