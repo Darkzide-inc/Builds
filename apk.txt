@@ -1,9 +1,9 @@
-name="   [COLOR ghostwhite][B]KODI´S TIL ANDROID[/B][/COLOR]"
+name="[COLOR ghostwhite][B]KODI´S TIL ANDROID[/B][/COLOR]"
 url=""
 img=""
 fanart=""
 description="KODI TIL ANDROID"
-size="FORSKELLIGE KODI KLONER"
+size="KODI KLONER"
 bio=""
 
 
