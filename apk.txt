@@ -1,27 +1,10 @@
-name="   [COLOR lightblue][B]MediSafe Meds & Pill Reminder[/B][/COLOR] v7.23.03591"
-url="https://www.dropbox.com/s/sfu26a7fsebgc8o/APP%20-%20MediSafe%20Meds%20%26%20Pill%20Reminder%20v7.23.03591%20%5BPremium%5D.apk?dl=1"
-img="http://www.aftermd.com/images/useful-apps/medisafe.png"
-fanart="https://i.ytimg.com/vi/MP9-nqGjNSE/hqdefault.jpg"
-description="MediSafe Meds & Pill Reminder v7.23.03591"
-size="23 MB - [Premium]"
-bio="MediSafe Meds & Pill Reminder"
-
-name="  [COLOR darkblue][B]Yatse, the Kodi Remote v7.3.0[/B][/COLOR] [Patch] ARM LP and Root"
-url="https://www.dropbox.com/s/1fttmt3336i1b27/APP%20-%20Yatse%2C%20the%20Kodi%20Remote%20v7.3.0%20%5BPatch%5D%20ARM%20LP%20and%20Root.apk?dl=1"
-img="http://yatse.tv/Images/Yatse/Header_640.jpg"
-fanart="https://www.dropbox.com/s/z62lg9zm9qp9e50/yatse%20kodi%20remote.png?dl=1"
-description="Yatse, the Kodi Remote v7.3.0"
-size="11 MB"
-bio="Remote control your kodi with your mobile"
-
-name="  AdClear v.7.0 full version"
-url="https://www.dropbox.com/s/vammk6idk6sb3ct/APP%20-%20AdClear%20v7.0.0.503935%20%5BNon-Root%20Full-Version%20Ad%20Blocker%5D.apk?dl=1"
-img="https://i0.wp.com/www.shorttricks.in/wp-content/uploads/2016/07/AdClear-v5.0.0.501735-Non-Root-Full-Version-Ad-Blocker-Pro-Apk-Free-Download.jpg"
+name="   [COLOR ghostwhite][B]KODI´S TIL ANDROID[/B][/COLOR]"
+url=""
+img=""
 fanart=""
-description="[Non-Root Full-Version Ad Blocker]
-This ad blocker also block ads in free games"
-size="15 MB"
-bio="AdClear v7.0.0.503935"
+description="KODI TIL ANDROID"
+size="FORSKELLIGE KODI KLONER"
+bio=""
 
 
 name="  ES File Xplore Pro 1.01"
@@ -31,33 +14,6 @@ fanart="https://i.ytimg.com/vi/MP9-nqGjNSE/hqdefault.jpg"
 description="The Best File Manager For Android"
 size="5.6 MB"
 bio="Enjoy Pro Version For Free"
-
-
-name="  X-plore File Manager v3.92.11 Final"
-url="https://www.dropbox.com/s/t5kq1hjpsobq9eb/APP%20-%20X-plore%20File%20Manager%20v3.92.11%20Final%20%5BPatched%5D.apk?dl=1"
-img="http://www.apps2apk.com/wp-content/uploads/2015/05/XPlore-File-Manager-Donate-v3.71.02-Apk.jpg"
-fanart="http://www.apps2apk.com/wp-content/uploads/2015/05/XPlore-File-Manager-Donate-v3.71.02-Apk.jpg"
-description=" X-plore File Manager v3.92.11 Final[Patched]"
-size="5.2 MB"
-bio="X-plore File Manager"
-
-
-name="  Solid Steamz 1.0"
-url="https://www.dropbox.com/s/v4ssf678lqx3nip/Solid%20Streamz_1.0.apk?dl=1"
-img="http://data.apksum.com/e5/com.solid.streamz/1.0/icon.png"
-fanart="http://data.apksum.com/e5/com.solid.streamz/1.0/icon.png"
-description="Solid Steamz 1.0"
-size="8 MB - [Unlocked]"
-bio="Alot of TV Channels"
-
-
-name="  Terrarium TV v1.4.12[Premium]"
-url="https://www.dropbox.com/s/mvix08fjnhhyhue/APP%20-%20Terrarium%20TV%20v1.4.12%20%5BPremium%5D.apk?dl=1"
-img="http://terrariumtvdownloadapp.com/wp-content/uploads/2016/11/Terrarium-TV-APK-for-Android.jpg"
-fanart="http://terrariumtvdownloadapp.com/wp-content/uploads/2016/11/Terrarium-TV-APK-for-Android.jpg"
-description="Terrarium TV v1.4.12[Premium]"
-size="8 MB"
-bio="Big Mix Of TV Shows and Movies"
 
 
 
