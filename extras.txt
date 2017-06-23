@@ -1,9 +1,10 @@
-name="[COLOR ghostwhite][B]*****[/B][/COLOR][COLOR red][B]THIS SITE IS OUT OF ORDER[/B][/COLOR][COLOR ghostwhite][B]*****[/B][/COLOR]"
+name="[COLOR ghostwhite][B]*****HER KOMMER NOK TIL AT LIGGE KODI 18 BUILDS*****[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
-img="http://i.imgur.com/azAGt2m.png"
+img=""
 fanart=""
-description="Help Merlin"
-size=""
+description="KODI 18 BUILDS"
+size="KOMMER TIL AT LIGGE HER"
 bio=""
+
 
 
