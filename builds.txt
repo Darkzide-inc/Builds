@@ -12,7 +12,7 @@ url="https://www.dropbox.com/s/25ey8qj555z0305/DARK-TV-DK.zip?dl=1"
 img="https://www.dropbox.com/s/i3kuh90jcgv6hfg/screenshot013.png?dl=1"
 fanart=""
 description="Dark TV DK v.9.9.9"
-size="UDGIVET 23-06-2017"
+size="UDGIVET 25-06-2017"
 bio="222 MB DANSK BUILD"
 
 name="[COLOR ghostwhite][B]Darkzide Mini TV Build v.1.1.1[/B][/COLOR]"
