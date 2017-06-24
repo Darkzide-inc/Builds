@@ -4,16 +4,16 @@ img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
 fanart=""
 description="FINDES UNDER HER"
 size="KODI 17 BUILDS"
-bio=""
 
 
-name="[COLOR ghostwhite][B]Dark Glas TV Build v.9.9.9[/B][/COLOR]"
-url="https://www.dropbox.com/s/ilq93tpl0ghzx0g/DARK-GLAS-DK-TV.%20V1560.zip?dl=1"
+
+name="[COLOR ghostwhite][B]Dark TV DK v.9.9.9[/B][/COLOR]"
+url="https://www.dropbox.com/s/25ey8qj555z0305/DARK-TV-DK.zip?dl=1"
 img="https://www.dropbox.com/s/i3kuh90jcgv6hfg/screenshot013.png?dl=1"
 fanart=""
-description="Dark Glas TV Build v.9.9.9"
+description="Dark TV DK v.9.9.9"
 size="UDGIVET 23-06-2017"
-bio="270 MB DANSK BUILD"
+bio="222 MB DANSK BUILD"
 
 name="[COLOR ghostwhite][B]Darkzide Mini TV Build v.1.1.1[/B][/COLOR]"
 url="https://www.dropbox.com/s/0gi18oemxeq32j0/minitv.zip?dl=1"
@@ -37,7 +37,7 @@ img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
 fanart=""
 description="FINDES UNDER HER"
 size="KODI 16 BUILDS"
-bio=""
+
 
 name="Darkzide Evil TV Build v.9.9.9"
 url="https://www.dropbox.com/s/d8iqyckmgofdmd4/Evil-TV-Build-jarvis-999.zip?dl=1"
