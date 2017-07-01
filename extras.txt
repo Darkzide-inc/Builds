@@ -1,8 +1,8 @@
-name="[COLOR ghostwhite][B]*****HER KOMMER NOK TIL AT LIGGE KODI 18 BUILDS*****[/B][/COLOR]"
+name="[COLOR ghostwhite][B]Darkzide Test Builds[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
-img=""
+img="https://i.imgur.com/91z2k3Bh.jpg
 fanart=""
-description="KODI 18 BUILDS"
+description="KODI TEST BUILDS"
 size="KOMMER TIL AT LIGGE HER"
 bio=""
 
