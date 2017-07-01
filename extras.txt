@@ -1,10 +1,17 @@
 name="[COLOR ghostwhite][B]Darkzide Test Builds[/B][/COLOR]"
-url="https://www.dropbox.com/s/vilbxx1cf51gsko/evildarkzidebuild.zip?dl=1"
-img="https://i.imgur.com/91z2k3Bh.jpg"
+url="https://www.drobox"
+img="http://i.imgur.com/eZnPWR9.jpg"
 fanart=""
 description="KODI TEST BUILDS"
-size="KOMMER TIL AT LIGGE HER"
-bio=""
+size="666 MB"
+
+name="[COLOR ghostwhite][B]Darkzide [COLORblack]Test[/COLOR] Build[/B][/COLOR]"
+url="https://www.dropbox.com/s/9t336bi1g1giyjo/evildarkzidebuild.zip?dl=1"
+img="http://i.imgur.com/eZnPWR9.jpg"
+fanart=""
+description="KODI TEST BUILDS"
+size="666 MB"
+
 
 
 
