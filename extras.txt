@@ -1,5 +1,5 @@
 name="[COLOR ghostwhite][B]Darkzide Test Builds[/B][/COLOR]"
-url="https://www.dropbox.com/s/hb"
+url="http://dl.dropboxusercontent.com/1/view/9t336bi1g1giyjo/Kodi%20Builds/Kodi%2016%20Builds/evildarkzidebuild.zip
 img="https://i.imgur.com/91z2k3Bh.jpg
 fanart=""
 description="KODI TEST BUILDS"
