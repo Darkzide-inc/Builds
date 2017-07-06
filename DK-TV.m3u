@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:0 tvg-id="DR 1" tvg-logo="https://danishbits.org/static/bitbucket/users/1481913743.8654.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR 1
+#EXTINF:0 tvg-id="DR 1" tvg-logo="http://i.imgur.com/DEuYWF6.png group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR 1
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
-#EXTINF:0 tvg-id="DR 2" tvg-logo="https://danishbits.org/static/bitbucket/users/1481919848.7648.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR 2
+#EXTINF:0 tvg-id="DR 2" tvg-logo="http://i.imgur.com/8h8qhl4.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR 2
 http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
-#EXTINF:0 tvg-id="DR 3" tvg-logo="https://danishbits.org/static/bitbucket/users/1481920111.1066.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR 3
+#EXTINF:0 tvg-id="DR 3" tvg-logo="http://i.imgur.com/GCWX5yx.png group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR 3
 http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
-#EXTINF:0 tvg-id="DR KULTUR" tvg-logo="https://danishbits.org/static/bitbucket/users/1481920870.7497.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR KULTUR
+#EXTINF:0 tvg-id="DR KULTUR" tvg-logo="http://i.imgur.com/LvWqZQR.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR KULTUR
 http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
-#EXTINF:0 tvg-id="DR RAMASJANG" tvg-logo="https://danishbits.org/static/bitbucket/users/1481920369.1641.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR RAMASJANG
+#EXTINF:0 tvg-id="DR RAMASJANG" tvg-logo="http://i.imgur.com/wmG5oro.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR RAMASJANG
 http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
-#EXTINF:0 tvg-id="DR ULTRA" tvg-logo="https://danishbits.org/static/bitbucket/users/1481920471.195.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR ULTRA
+#EXTINF:0 tvg-id="DR ULTRA" tvg-logo="http://i.imgur.com/XReENcS.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",DR ULTRA
 http://dr06-lh.akamaihd.net/i/dr06_0@147059/master.m3u8?b=100-1600
-#EXTINF:0 tvg-id="TV 2" tvg-logo="https://danishbits.org/static/bitbucket/users/1485171091.8076.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2
+#EXTINF:0 tvg-id="TV 2" tvg-logo="http://i.imgur.com/NAMW8M3.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
-#EXTINF:0 tvg-id="TV 2 FRI" tvg-logo="https://danishbits.org/static/bitbucket/users/1480870162.6472.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2 FRI
+#EXTINF:0 tvg-id="TV 2 FRI" tvg-logo="http://i.imgur.com/ZnvxE1w.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master.m3u8
-#EXTINF:0 tvg-id="TV 2 CHARLIE" tvg-logo="https://danishbits.org/static/bitbucket/users/1480871150.7548.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2 CHARLIE
+#EXTINF:0 tvg-id="TV 2 CHARLIE" tvg-logo="http://i.imgur.com/egSRz9y.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2 CHARLIE
 http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master.m3u8
-#EXTINF:0 tvg-id="TV 2 ZULU" tvg-logo="https://danishbits.org/static/bitbucket/users/1480871336.0465.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2 ZULU
+#EXTINF:0 tvg-id="TV 2 ZULU" tvg-logo="http://i.imgur.com/XEG8KbO.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2 ZULU
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master.m3u8
-#EXTINF:0 tvg-id="TV 2 SPORT" tvg-logo="https://danishbits.org/static/bitbucket/users/1481928162.6916.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2 SPORT
+#EXTINF:0 tvg-id="TV 2 SPORT" tvg-logo="http://i.imgur.com/UhqfJnM.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV 2 SPORT
 http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
 #EXTINF:0 tvg-id="TV2 Bornholm" tvg-logo="https://danishbits.org/static/bitbucket/users/1495045320.9849.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
@@ -35,7 +35,7 @@ http://cdn-lt-live.tv2oj.dk/dc-0/live/hls/p/2102081/e/0_x4p3licd/sd/10000/t/G6y0
 http://cdn-lt-live.tv2fyn.dk/dc-1/live/hls/p/1966291/e/0_vsfrv0zm/sd/10000/t/T6nwxGTEvXZRnLX-DBxxkw/index-s32.m3u8
 #EXTINF:0 tvg-id="TV2 LORRY" tvg-logo="https://danishbits.org/static/bitbucket/users/1495045369.2473.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV2 LORRY
 http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o0rIIeGd1KdzBctCs5zPlQ/index-s32.m3u8
-#EXTINF:0 tvg-id="TV HOVEDSTADEN" tvg-logo="https://danishbits.org/static/bitbucket/users/1495045072.3209.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV HOVEDSTADEN
+#EXTINF:0 tvg-id="TV HOVEDSTADEN" tvg-logo="http://i.imgur.com/WXR401y.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",TV HOVEDSTADEN
 http://prod.origin1.iptera.com:1935/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/chunklist_w262463347_b2500000.m3u8
 #EXTINF:0 tvg-id="FOLKETINGET" tvg-logo="https://danishbits.org/static/bitbucket/users/1495045117.1983.png" group-title="DANSK" group-logo="https://danishbits.org/static/bitbucket/users/1481913769.7309.png",FOLKETINGET
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/media-ukibmg4tp_b400000_8617.m3u8
