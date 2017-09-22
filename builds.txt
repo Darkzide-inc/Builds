@@ -7,13 +7,13 @@ size="KODI 17 BUILDS"
 
 
 
-name="[COLOR ghostwhite][B]Dark TV DK v.9.9.9[/B][/COLOR]"
-url="https://www.dropbox.com/s/vilbxx1cf51gsko/DARK-TV-DK.zip?dl=1"
-img="https://www.dropbox.com/s/i3kuh90jcgv6hfg/screenshot013.png?dl=1"
+name="[COLOR ghostwhite][B]Viking 17 Build v1.0[/B][/COLOR]"
+url="https://www.dropbox.com/s/dvc7jps5d90rr6l/Kodi.zip?dl=1"
+img="https://www.dropbox.com/s/65x249mgqu87ggf/denmark-danmark-graffiti-t-shirts-dame-premium-t-shirt.jpg?dl=1"
 fanart=""
-description="Dark TV DK v.9.9.9"
-size="UDGIVET 25-06-2017"
-bio="222 MB DANSK BUILD"
+description="Viking 17 Build v1.0"
+size="Uploadet 22-09-2017"
+bio="246 MB DK/ENG Build"
 
 name="[COLOR ghostwhite][B]Darkzide Mini TV Build v.1.1.1[/B][/COLOR]"
 url="https://www.dropbox.com/s/0gi18oemxeq32j0/minitv.zip?dl=1"
