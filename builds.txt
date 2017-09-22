@@ -23,14 +23,6 @@ description="Darkzide Mini TV Build v.1.1.1"
 size="UDGIVET 23-06-2017"
 bio="21 MB DK TV BUILD"
 
-name="[COLOR ghostwhite][B]Darkzide Mobil-TV Build v.1.1.1[/B][/COLOR]"
-url="https://www.dropbox.com/s/76hhd2xa443f0jk/DarkTV-Build.zip?dl=1"
-img="https://www.dropbox.com/s/ztt08z6uzku72qk/screenshot001.png?dl=1"
-fanart=""
-description="Darkzide Mobil TV Build v.1.1.1"
-size="UDGIVET 25-04-2017"
-bio="133 MB DK MOBIL BUILD"
-
 name="[COLOR ghostwhite][B]******[/COLOR][COLOR blue]KODI 16 BUILDS[/COLOR][COLOR ghostwhite]*******[/B][/COLOR]"
 url="https://www.dropbox.com/s/hb"
 img="http://justkodi.com/wp-content/uploads/2016/11/kodi-750x410.jpg"
@@ -46,22 +38,6 @@ fanart=""
 description="Darkzide Evil TV Build v.6.6.6"
 size="UDGIVET 23-6-2017"
 bio="172 MB DK Build"
-
-name="Darkzide Danish TV Build v.4.4.4"
-url="https://www.dropbox.com/s/vc6tl2gmx7ye6lm/DarkzideBuildv4.4.4.zip?dl=1"
-img="https://www.dropbox.com/s/x12uh5mqus4kir4/screenshot002.png?dl=1"
-fanart=""
-description="Darkzide Danish TV Build v.4.4.4"
-size="UDGIVET AF JESUS"
-bio="196 MB DK BUILD"
-
-name="Darkzide mini TV Build v.1.1.1"
-url="https://www.dropbox.com/s/b5e94kp7t20fl4d/minitv-066.zip?dl=1"
-img="https://www.dropbox.com/s/x12uh5mqus4kir4/screenshot002.png?dl=1"
-fanart=""
-description="Darkzide Mini TV Build v.1.1.1"
-size="UDGIVET 23-6-2017"
-bio="20 MB DK BUILD"
 
 
 
